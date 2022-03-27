@@ -33,7 +33,7 @@
 *3 - Состояние попадает на H3K27me3 и H3K9me3*
 ![alt text](https://github.com/messlav/hse_hw3_chromhmm2/blob/main/images/Снимок%20экрана%202022-03-27%20в%2016.46.20.png)
 
-*4-5 - Состояния попадают на H3K9me3 и H4K20me1*
+*4-5 - Состояния попадают на H3K9me3, H3K79me2, H3K36me3*
 ![alt text](https://github.com/messlav/hse_hw3_chromhmm2/blob/main/images/Снимок%20экрана%202022-03-27%20в%2016.46.35.png)
 
 *6 - Состояние попадает на H3K4me2, H3K4me1 и H3K79me2*
@@ -45,10 +45,10 @@
 *8 - Состояние попадает на H3K4me3, H3K4me2, H3K4me2 и H3K27ac*
 ![alt text](https://github.com/messlav/hse_hw3_chromhmm2/blob/main/images/Снимок%20экрана%202022-03-27%20в%2016.47.34.png)
 
-*9 - Состояние попадает на H3K27ac*
+*9 - Состояние попадает на H3K27ac, H3K9ac, H3K4me1, H3K4me2, H3K4me3*
 ![alt text](https://github.com/messlav/hse_hw3_chromhmm2/blob/main/images/Снимок%20экрана%202022-03-27%20в%2016.48.04.png)
 
-*10 - Состояние попадает на H3K27ac, H3K4me1, H3K4me2, H3K9me3, H3K9ac, H3K79me2, H4K20me1*
+*10 - Состояние попадает на H3K27ac, H3K4me1, H3K4me2, H3K9me3, H3K9ac, H3K79me2*
 ![alt text](https://github.com/messlav/hse_hw3_chromhmm2/blob/main/images/Снимок%20экрана%202022-03-27%20в%2016.48.26.png)
 
 ## Список всех запущенных команд
